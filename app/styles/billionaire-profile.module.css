@@ -1,0 +1,14 @@
+.profile {
+    background-color: #22272e;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+.image {
+    width: 20%;
+    height: auto;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
